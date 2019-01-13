@@ -91,3 +91,7 @@ RateKit includes some CSS styles from the Bootstrap framework. If your site alre
 # Acknowledgements
 
 The RateKit front end includes parts of Kartik Visweswaran's splendid [Bootstrap Star Rating](http://plugins.krajee.com/star-rating) jQuery plugin. Thank you Kartik!
+
+# License
+
+RateKit is free software, and is released under the terms of the GPL version 2 or (at your option) any later version. See [license.txt](license.txt)
